@@ -1,9 +1,0 @@
-{
-    "workbench.startupEditor": "none",
-    "workbench.panel.defaultLocation": "bottom",
-    "workbench.view.alwaysShowHeaderActions": false,
-    "terminal.integrated.defaultProfile.linux": "bash",  // Or your preferred shell
-    "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": true
-  }
-  
